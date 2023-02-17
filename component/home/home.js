@@ -53,9 +53,6 @@ const Home = () => {
           </div>
           <div className="card_item"> <HiUserGroup className="cardIcon" />
 
-            <p>Emergency Cases</p>
-            <h5> 9818548492, 7042328047 </h5>
-
         </div> */}
     </section>
 
