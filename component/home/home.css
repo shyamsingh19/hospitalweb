@@ -1,0 +1,20 @@
+#home {
+  margin-top: 225px;
+}
+
+.home_parent {
+  filter: brightness(1.2);
+  background-size: cover;
+  background-position: center top 0px;
+}
+
+.our_testinomial {
+  height: 400px;
+}
+
+.our_testinomial h3 {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 40px;
+  color: pink;
+}
