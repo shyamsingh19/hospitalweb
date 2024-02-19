@@ -24,7 +24,6 @@ const About = () => {
               <li>  <p>To provide services which are quick and easy to access and provide an excellent patient experience.</p></li>
               <li>
                 <p>To educate people regarding early treatment and late rehabilitation for diseases</p> </li>
-
             </ul>
             <section className="aboutsecondimage">
               <img src={about} />
