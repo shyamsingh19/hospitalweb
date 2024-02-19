@@ -38,7 +38,7 @@ const About = () => {
                 <li><p>  24*7 Facilities</p></li>
                 <li><p>  24*7  Admission and  Emergency services  with fully  computed result   </p></li>
                 <li><p> 24*7 Pharmacy   </p></li>
-                <li><p>  24* 7 Ambulance services are provided by the hospital   </p></li>
+                <li><p>  24*7 Ambulance services are provided by the hospital   </p></li>
               </ul>
             </div>
           </div>
