@@ -56,9 +56,6 @@ const Home = () => {
             <p>Emergency Cases</p>
             <h5> 9818548492, 7042328047 </h5>
 
-            <p className="paracard"> Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency .</p>
-          </div>
-
         </div> */}
     </section>
 
