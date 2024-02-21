@@ -51,7 +51,6 @@ const Home = () => {
 
             </ul>
           </div>
-          <div className="card_item"> <HiUserGroup className="cardIcon" />
 
         </div> */}
     </section>
