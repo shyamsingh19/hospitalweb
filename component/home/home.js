@@ -40,7 +40,6 @@ const Home = () => {
 
       {/* <div className="card_section">
           <div className="card_item"> <FaRegClock className="cardIcon" />
-            <p>Timing schedule</p>
             <h5> Working Hours</h5>
             <ul className="time_listing">
         </div> */}
