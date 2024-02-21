@@ -49,8 +49,7 @@ const Home = () => {
               <li><span> Sat - sun :  </span>  <span>  24:00  </span></li>
 
 
-            </ul>
-          </div>
+
 
         </div> */}
     </section>
