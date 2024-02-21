@@ -43,9 +43,6 @@ const Home = () => {
             <p>Timing schedule</p>
             <h5> Working Hours</h5>
             <ul className="time_listing">
-
-              <li><span> Sun - Wed :  </span>  <span>  24:00  </span></li>
-              <li><span> Thu - Fri : </span>  <span>  24:00  </span></li>
         </div> */}
     </section>
 
