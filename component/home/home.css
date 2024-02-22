@@ -52,4 +52,7 @@
   height: 200px;
   flex-direction: column;
 }
+
+.home_wrap {
+  height: 600px;
 }
